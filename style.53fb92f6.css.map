@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,aACF,CAEA,OACE,oBACF,CAEA,UACE,kBACF,CAEA,6BACE,kBACF","file":"style.53fb92f6.css","sourceRoot":"..\\src","sourcesContent":[".form-field {\n  display: block;\n}\n\n.radio {\n  display: inline-block;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.form-field:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
